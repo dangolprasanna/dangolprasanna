@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![HitCount](http://hits.dwyl.com/dangolprasanna/dangolprasanna.svg)](http://hits.dwyl.com/dangolprasanna/dangolprasanna)
 <!--
 **dangolprasanna/dangolprasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
